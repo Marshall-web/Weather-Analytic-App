@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-import { Cloud, CloudRain, Sun, Wind, Droplets, Eye, Gauge, MapPin, Search, TrendingUp, Calendar } from 'lucide-react';
+import { Cloud, CloudRain, Sun, Wind, Droplets, Gauge, MapPin, Search, TrendingUp, Calendar } from 'lucide-react';
 import { LineChart, Line, AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 
 
